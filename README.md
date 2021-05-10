@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 # Notes-app
 A Reminder app with React and Firebase
 =======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+and Material UI is used https://material-ui.com
+deployed in https://todo-app-cp-afc2c.web.app
 ## Available Scripts
 
 In the project directory, you can run:
